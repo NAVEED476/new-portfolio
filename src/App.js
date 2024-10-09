@@ -7,6 +7,7 @@ import Projects from "./pages/Projects";
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
+import Experience from "./pages/Experince";
 
 function App() {
   const routes = createBrowserRouter([
@@ -21,6 +22,10 @@ function App() {
     {
       path: "/about",
       element: <About />,
+    },
+    {
+      path: "/exp",
+      element: <Experience />,
     },
     {
       path: "/projects",

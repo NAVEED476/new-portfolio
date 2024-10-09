@@ -13,7 +13,7 @@ const Home = () => {
           <h1 style={{ fontSize: "3rem" }}>HEY 👋, MY NAME IS NAVEED SHAIK</h1>
           <h2>I am a Full-Stack web Developer</h2>
           <h3>
-            With more than a year of experience, I am a passionate web developer
+            With more than 3 years of experience, I am a passionate web developer
             proficient in HTML, CSS, JavaScript, React for front-end
             development, along with Node.js, Express, and MongoDB for Back-end
             development .This comprehensive skill set enables me to create

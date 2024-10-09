@@ -6,7 +6,6 @@ const Projects = () => {
     <>
       <Navbar />
       <div>
-        <h3>Projects</h3>
       </div>
     </>
   );
